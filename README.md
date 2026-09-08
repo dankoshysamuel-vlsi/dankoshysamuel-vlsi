@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dan Koshy Samuel 👋
 
-<!--
-**dankoshysamuel-vlsi/dankoshysamuel-vlsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a VLSI Engineering student passionate about Digital Design, RTL Design, FPGA Development, and Computer Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+
+- Digital Logic Design
+- Verilog HDL
+- FPGA Design
+- CMOS Fundamentals
+- Computer Architecture
+
+---
+
+## Current Projects
+
+- Digital Design Lab
+- Verilog Practice Repository
+- FPGA Mini Projects
+
+---
+
+## Tools
+
+- Verilog HDL
+- ModelSim
+- GTKWave
+- Vivado
+- Git
+- GitHub
+
+---
+
+## Career Goal
+
+To become an RTL Design Engineer and contribute to advanced semiconductor and VLSI systems.
+
+---
+
+## Currently Working On
+
+🔹 Building Digital Design Lab
+
+🔹 Verilog Practice Projects
+
+🔹 FPGA-based Designs
